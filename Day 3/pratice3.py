@@ -29,7 +29,7 @@ def dots(v1, v2):
     return sum(v1[i]*v2[i] for i in range(len(v1)))
 
 # untuk yang ini aturannya adalah kita mengambil elemen ke i di v1 
-# lalu di kalikan ke elemen i yang di  namun karena ini summary 
+# lalu di kalikan ke elemen i yang di namun karena ini summary(penjumlahan)
 # jadi semua elemennya akan dijumlah
 
 # contohnya 
